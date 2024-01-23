@@ -1,8 +1,7 @@
-# McGill-Affordable-Food-Cheatsheet
-McGill Affordable Food Cheatsheet (CodeJam13 Hakathon)
+# McGill-Affordable-Food-Cheatsheet(Project from CodeJam13 Hakathon)
 
 (1)What it does
-This project gathers all affordable places for students near the McGill downtown campus. My team is aiming to provide the most valuable affordable food resources through a website linked with thorough restaurant information which students can easily access and decide their own food choices.
+This project gathers all affordable places for students near the McGill downtown campus. Our team is aiming to provide the most valuable affordable food resources through a website linked with thorough restaurant information which students can easily access and decide their own food choices.
 
 (2)How we built it
 After we decided our target community audiences which are McGill student community, we started to do some research on affordable restaurants options around the McGill downtown campus. We found some free web templates as online resources that would better serve our ideas to reality. We tailored one of the templates using HTML, CSS, Javascript, Google map API and PlaceID.
